@@ -1,0 +1,14 @@
+body {
+  background-image: url(img/pantera\ negra\ top.jpeg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: local;
+}
+.areaprincipal {
+  width: 50%;
+  background-color: rgba(0,0,0,0.1);
+}
+
+
